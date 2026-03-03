@@ -1,10 +1,10 @@
 # IoT-Based-Multi-Sensor-Data-Acquisition-System
-Overview
+Overview:
 
 This project was developed as part of a two-month Makernova program focused on Embedded Systems and Sensor Integration.
 The objective was to design and implement a real-time multi-sensor data acquisition system using ESP32 to monitor environmental and motion parameters.
 
-System Implementation
+System Implementation:
 
 ESP32 programmed using Arduino IDE
 
@@ -14,7 +14,7 @@ Structured data acquisition and processing
 
 Real-time monitoring through a locally hosted interface
 
-Sensors Integrated
+Sensors Integrated:
 
 BNO085 – Orientation and motion sensing
 
@@ -26,7 +26,7 @@ Ultrasonic Sensor – Distance measurement
 
 TCS34725 – Color detection
 
-Embedded Concepts Applied
+Embedded Concepts Applied:
 
 GPIO configuration and pin mapping
 
@@ -38,7 +38,7 @@ Real-time data handling
 
 Sensor calibration techniques
 
-Development & Simulation Tools
+Development & Simulation Tools:
 
 Arduino IDE (ESP32 programming)
 
@@ -46,7 +46,7 @@ Wokwi (ESP32 simulation)
 
 Proteus (Circuit design & validation)
 
-Key Outcomes
+Key Outcomes:
 
 Successfully integrated 5 sensors on a single microcontroller
 
