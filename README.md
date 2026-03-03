@@ -29,3 +29,14 @@ Practical implementation of communication protocols
 Real-time embedded system design
 Sensor calibration and data handling
 
+🔍 Sensors Integrated
+
+BNO085 – Orientation and motion sensing
+
+MQ135 – Air quality monitoring
+
+BMP280 – Temperature & pressure measurement
+
+Ultrasonic Sensor – Distance measurement
+
+TCS34725 – Color detection
